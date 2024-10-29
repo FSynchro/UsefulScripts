@@ -31,3 +31,6 @@ Before using these scripts, ensure you have the following installed:
 chmod +x maintenanceScript.sh and throw it in a cron every 15 minutes (not sooner or this script will overlap every time!)
 
 That should do it.
+
+
+It could be that not all dependencies are mentioned in this guide, install them as needed.
