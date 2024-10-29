@@ -6,7 +6,7 @@ This repository contains a set of scripts to automate the update process for a F
 
 Before using these scripts, ensure you have the following installed:
 
-- **Python 3.x**: Make sure Python is installed on your machine.
+- **Python 3.10**: Make sure Python is installed on your machine.
 - **pip**: Python package installer.
 - **curl**: Command-line tool for transferring data with URLs.
 - **jq**: Lightweight and flexible command-line JSON processor.
