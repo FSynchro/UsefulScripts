@@ -1,6 +1,6 @@
 # Factorio Server Update Automation with Discord Notifications
 
-This repository contains a set of scripts to automate the update process for a Factorio server and send live update notifications to a specified Discord channel. The automation includes checking for updates, stopping the server, updating it, and notifying users of progress and completion through Discord.
+This repository contains a set of scripts to automate the update process for a Factorio server that runs on LGSM (which can be any other LGSM server, just replace ./fctrserver with ./gameserver)  and send live update notifications to a specified Discord channel. The automation includes checking for updates, stopping the server, updating it, and notifying users of progress and completion through Discord.
 
 ## Prerequisites
 
