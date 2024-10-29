@@ -22,3 +22,12 @@ Before using these scripts, ensure you have the following installed:
   pip3 install requests
 
 
+3. **Download the scripts to your gameserver**:
+
+ And configure the variables to your needs (bot token from discord bot developer portal, channel id from your discord server)
+
+4. **do the last linux configs**
+
+chmod +x maintenanceScript.sh and throw it in a cron every 15 minutes (not sooner or this script will overlap every time!)
+
+That should do it.
