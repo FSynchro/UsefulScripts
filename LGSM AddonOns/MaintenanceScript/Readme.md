@@ -24,6 +24,7 @@ Before using these scripts, ensure you have the following installed:
 
 3. **Download the scripts to your gameserver**:
 
+They can be found in this repository under /scripts/
  And configure the variables to your needs (bot token from discord bot developer portal, channel id from your discord server)
 
 4. **do the last linux configs**
